@@ -1,24 +1,3 @@
-
-```markdown
----
-hidden: true
-icon: flag
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # Fries HackTheBox (Hard)
 
 ## Port Scanning
@@ -1186,12 +1165,12 @@ We are logged in as `Administrator`. We read the `2` flags, `user.txt` and `root
 > root.txt
 
 ```
-ba1b9a3fb395f12d82f23d8746c0c7e6
+2ce93f877c167a8e1ca7dfa6baffad2a
 ```
 
 > user.txt
 
 ```
-57c47b38b18adfb4d0424ea14ce7cc37
+7fdd8a52dba09f85547ef0f353103627
 ```
 ```
